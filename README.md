@@ -74,11 +74,9 @@ deposit | object | has the client subscribed a term deposit? (binary: 'yes','no'
 
 ![feature_distribution](https://user-images.githubusercontent.com/78812904/163993294-7765db6f-fe45-4983-897a-7f16e13df2b1.png)
 
-
 # Heat Map
 
 ![heatmap](https://user-images.githubusercontent.com/78812904/163993463-4e82b50a-713d-4237-9b97-17eee16bbcbf.png)
-
 
 # Pairplot
 
