@@ -15,20 +15,35 @@ This is the classic marketing bank dataset uploaded originally in the UCI Machin
 # Feature
 
 age | int64 | age in years
+
 job | object | type of job (categorical: ['admin.' 'technician' 'services' 'management' 'retired' 'blue-collar' 'unemployed' 'entrepreneur' 'housemaid' 'unknown' 'self-employed' 'student'])
+
 marital | object | marital status (categorical: ['married' 'single' 'divorced'])
+
 education | Object | education background (categorical: ['secondary' 'tertiary' 'primary' 'unknown'])
+
 default | Object | has credit in default? (categorical: ['no' 'yes'])
+
 balance | int64 | Balance of the individual
+
 housing | object | has housing loan? (categorical: ['yes' 'no'])
+
 loan | object | has personal loan? (categorical: ['no' 'yes'])
+
 contact | object | contact communication type (categorical: ['unknown' 'cellular' 'telephone'])
+
 day | int64 | last contact day of the week (categorical: 'mon','tue','wed','thu','fri')
+
 month | object | last contact month of year (categorical: ['may' 'jun' 'jul' 'aug' 'oct' 'nov' 'dec' 'jan' 'feb' 'mar' 'apr' 'sep'])
+
 duration | int64 | last contact duration, in seconds (numeric)
+
 campaign | int64 | number of contacts performed during this campaign and for this client
+
 pdays | int64 | number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
+
 previous | int64 | number of contacts performed before this campaign and for this client
+
 poutcome | object | outcome of the previous marketing campaign (categorical: ['unknown' 'other' 'failure' 'success'])
 
 # Label
@@ -39,21 +54,38 @@ deposit | object | has the client subscribed a term deposit? (binary: 'yes','no'
 # Exploratory Data Analysis
 
 * Find Unwanted Columns
-Find Missing Values
-Find Features with one value
-Explore the Categorical Features
-Find Categorical Feature Distribution
-Relationship between Categorical Features and Label
-Explore the Numerical Features
-Find Discrete Numerical Features
-Relation between Discrete numerical Features and Labels
-Find Continous Numerical Features
-Distribution of Continous Numerical Features
-Relation between Continous numerical Features and Labels
-Find Outliers in numerical features
-Explore the Correlation between numerical features
-Find Pair Plot
-Check the Data set is balanced or not based on target values in classification
+* Find Missing Values
+* Find Features with one value
+* Explore the Categorical Features
+* Find Categorical Feature Distribution
+* Relationship between Categorical Features and Label
+* Explore the Numerical Features
+* Find Discrete Numerical Features
+* Relation between Discrete numerical Features and Labels
+* Find Continous Numerical Features
+* Distribution of Continous Numerical Features
+* Relation between Continous numerical Features and Labels
+* Find Outliers in numerical features
+* Explore the Correlation between numerical features
+* Find Pair Plot
+* Check the Data set is balanced or not based on target values in classification
+
+# Feature Distribution
+
+![feature_distribution](https://user-images.githubusercontent.com/78812904/163993294-7765db6f-fe45-4983-897a-7f16e13df2b1.png)
+
+
+# Heat Map
+
+![heatmap](https://user-images.githubusercontent.com/78812904/163993463-4e82b50a-713d-4237-9b97-17eee16bbcbf.png)
+
+
+# Pairplot
+
+![pairplot](https://user-images.githubusercontent.com/78812904/163993589-fedeaaf7-5829-4670-b57b-ded39f31ab47.png)
+
+
+![pairplot1](https://user-images.githubusercontent.com/78812904/163993651-ffa14469-e6f6-4832-97ca-bd6ac6943ca1.png)
 
 
 
