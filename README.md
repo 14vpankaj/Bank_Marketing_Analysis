@@ -87,8 +87,15 @@ deposit | object | has the client subscribed a term deposit? (binary: 'yes','no'
 
 ![pairplot1](https://user-images.githubusercontent.com/78812904/163993651-ffa14469-e6f6-4832-97ca-bd6ac6943ca1.png)
 
+# 9. Conclusion
 
-
-
-
-
+- The dataset consists of categorical and numerical features.
+- The dateset has 16 independent features, out of these only half of them are important.
+- People who are under 36 are more likely to subscribe to the term deposit of the bank.
+- People who have some kind of loan, i.e personal or house loan are unlikely to subscribe.
+- Education plays an important role, as management, technician, blue-collar and admin professionals are more likely to subscribe.
+- Most of the people who subscribed to the term deposit spent more than 10 minutes on the call.
+- Married people seemed more interested in term deposits, unlike divorced people.
+- During May, July and August, most people subscribed to the term deposit. Hence, the targeted audience should be addressed during the summer.
+- Most people made up their minds within the next 3 months since the last campaign.
+- The targeted audience should be contacted at least 3 times.
