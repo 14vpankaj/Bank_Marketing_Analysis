@@ -1,8 +1,7 @@
-# Data Description
+# Objective
 
-This is the classic marketing bank dataset uploaded originally in the UCI Machine Learning Repository. The dataset gives you information about a marketing campaign of a financial institution in which you will have to analyze in order to find ways to look for future strategies in order to improve future marketing campaigns for the bank.
+Build ML model to predict if the client will subscribe to a term deposit.. Implement exploratory data analysis tools and techniques to investigate, analyze, and summarize the main characteristics of datasets, often utilizing data visualization methodologies.
 
-Kaggle URL to Download Dataset: https://www.kaggle.com/janiobachmann/bank-marketing-dataset
 
 # What is a Term Deposit?
 
@@ -11,6 +10,8 @@ A Term deposit is a deposit that a bank or a financial institurion offers with a
 # Data Description
 
 This is the classic marketing bank dataset uploaded originally in the UCI Machine Learning Repository. The dataset gives you information about a marketing campaign of a financial institution in which you will have to analyze in order to find ways to look for future strategies in order to improve future marketing campaigns for the bank.
+
+Dataset is available on UC Irvine Machine Learning Repository: https://archive.ics.uci.edu/ml/machine-learning-databases/00222/
 
 # Feature
 
