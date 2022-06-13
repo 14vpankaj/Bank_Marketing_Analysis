@@ -1,6 +1,6 @@
 # Objective
 
-Build ML model to predict if the client will subscribe to a term deposit.. Implement exploratory data analysis tools and techniques to investigate, analyze, and summarize the main characteristics of datasets, often utilizing data visualization methodologies.
+Build ML model to predict if the client will subscribe to a term deposit. Implement exploratory data analysis tools and techniques to investigate, analyze, and summarize the main characteristics of datasets, often utilizing data visualization methodologies.
 
 
 # What is a Term Deposit?
